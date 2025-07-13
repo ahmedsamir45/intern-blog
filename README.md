@@ -67,7 +67,7 @@ This project is licensed under the [MIT License](LICENSE).
 - Ahmed Samir
 - [LinkedIn](https://linkedin.com/in/ahmed-samir-917ba22a5)
 - [GitHub](https://github.com/ahmedsamir45)
-- Email: your-email@example.com
+- Email: ahmedsamer6788@gmail.com
 
 ---
 
