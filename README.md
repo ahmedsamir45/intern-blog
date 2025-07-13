@@ -1,7 +1,7 @@
 
 # Courses & Scholarships Compilation - Comprehensive Guide
 
-![Project Screenshot](screenshot.png)
+
 
 A comprehensive project aggregating the best educational resources and scholarship opportunities across various technical and academic fields.
 
